@@ -1,0 +1,11 @@
+{
+  "name": "daly_podcast_static",
+  "version": "1.0.0",
+  "description": "Static Podcast Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ross Daly",
+  "license": "MIT"
+}
